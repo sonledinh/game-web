@@ -1,0 +1,498 @@
+@media (max-width:  1199px) and (min-width:  1024px) {
+    body {
+        font-size: 15px;
+    }
+
+    .box-menu-top a {
+        font-size: 14px;
+    }
+    .item-prd .prd-btn .btn-buy a {
+        font-size: 10px;
+    }
+
+    .item-prd .price span {
+        font-size: 16px;
+    }
+
+    .title h2 {
+        font-size: 20px;
+    }
+
+    .tab-prd ul a {
+        font-size: 20px;
+    }
+}
+
+
+
+@media (max-width: 767px) {
+    .header-top {display: none;}
+    .box-menu-top {
+        display: none;
+    }
+    .box-cate-bar {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .title .col-md-5 {
+        display: none;
+    }
+
+    .title h2 {
+        font-size: 16px;
+    }
+
+    .title {
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .list-prd .row {
+        margin: 0 -7px;
+    }
+
+    .list-prd .col-md-4, .list-prd .col-md-3 {
+        padding: 7px;
+    }
+
+    .item-prd .prd-btn {
+        display: none;
+    }
+
+    .item-prd .price {
+        flex: 0 0 100%;
+        padding-top: 5px;
+    }
+
+    .item-prd .info h3 a {
+        font-size: 14px;
+        line-height: 1.3;
+        font-weight: 500;
+        margin-bottom: 5px;
+    }
+
+    .item-prd .price del {
+        font-size: 12px;
+        color: #aaa;
+    }
+
+    .item-prd .price span {
+        font-size: 16px;
+    }
+
+    .box-prd {
+        padding-bottom: 20px;
+    }
+
+    .content-form {
+        padding: 25px 15px;
+    }
+
+    .content-form h2 {
+        font-size: 22px;
+    }
+
+    body {
+        font-size: 14px;
+    }
+
+    .list-form .inp_btn {
+        font-size: 15px;
+        height: 40px;
+    }
+
+    .box-commitment .title h2 {
+        font-size: 20px;
+    }
+
+    .box-commitment {
+        margin: 15px 0;
+        padding: 20px 0;
+    }
+
+    .box-commitment .title {
+        margin-bottom: 10px;
+    }
+
+    .tab-prd ul a {
+        font-size: 14px;
+    }
+
+    .tab-prd ul li {
+        padding-right: 20px;
+    }
+
+    .tab-prd ul {
+        flex-wrap: wrap;
+    }
+
+    .item-comm {
+        max-width: 310px;
+        margin: 0 auto;
+    }
+
+    .tab-about a {
+        font-size: 15px;
+    }
+
+    .tab-about ul {
+        width: 750px;
+    }
+
+    .tab-about {
+        overflow: auto;
+    }
+
+    .breadcrumbs {
+        padding-bottom: 15px;
+    }
+
+    .breadcrumbs li:after {
+        bottom: 1px;
+        right: -2px;
+    }
+
+    .breadcrumbs li {
+        padding-right: 15px;
+    }
+
+    .content-cart th {
+        font-size: 15px;
+    }
+
+    .scr-mb {
+        margin-bottom: 15px;
+        overflow: auto;
+    }
+
+    .scr-mb table {
+        width: 760px !important;
+    }
+    .title-pg {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .filter-prd .col-md-6 {
+        margin-bottom: 15px;
+        text-align: center !important;
+    }
+
+    .filter-prd .col-md-6:last-child {
+        margin-bottom: 0;
+    }
+
+    .prd-hist a {
+        font-size: 16px;
+    }
+
+    .item-hist .right {
+        text-align: left;
+    }
+
+    .item-hist {
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    .item-hist .stt {
+        padding-top: 0;
+    }
+
+    .item-hist .price {
+        font-size: 16px;
+    }
+    .box-user label:empty {
+        display: none;
+    }
+
+    .box-user .col-md-6:empty {
+        display: none;
+    }
+
+    .avar-user {
+        display: none;
+    }
+
+    .form-user {
+        padding: 0 0 40px 0;
+    }
+
+    .pg-price ul {
+        display: block;
+    }
+
+    .pg-price {
+        padding-top: 15px;
+    }
+
+    .btn-checkout a {
+        height: 40px;
+        min-width: 200px;
+    }
+
+    .btn-checkout {
+        padding-top: 20px;
+    }
+    .info-preview h1 {
+        font-size: 25px;
+        line-height: 1.5;
+    }
+
+    .info-preview {
+        padding-top: 20px;
+    }
+
+    .info-preview .price label {
+        font-size: 25px;
+    }
+
+    .info-preview .price del {
+        font-size: 15px;
+    }
+
+    .info-preview .price {
+        padding: 10px 0;
+    }
+
+    .info-preview .desc {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .box-form-prd {
+        font-size: 15px;
+    }
+
+    .add-cart {
+        padding-left: 10px;
+    }
+
+    .add-cart a svg {
+        display: none;
+    }
+
+    .tab-prd-detail a {
+        font-size: 12px;
+        font-weight: 500;
+        padding: 10px;
+    }
+    .banner-bott {
+        display: none;
+    }
+
+    .banner-right {
+        display: none;
+    }
+
+    .banner {
+        padding-bottom: 20px;
+    }
+
+    .list-srv .col-md-4 {
+        padding-left: 15px;
+        margin-bottom: 15px;
+    }
+
+    .list-srv .col-md-4:last-child {
+        margin-bottom: 0;
+    }
+
+    .box-srv {
+        padding-bottom: 35px;
+    }
+
+    .item-srv {
+        padding: 30px 15px;
+        display: flex;
+        align-items: center;
+    }
+
+    .item-srv h2 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .item-srv .desc {
+        font-weight: 300;
+        font-size: 14px;
+    }
+
+    .item-srv .icon {
+        bottom: 0;
+        left: 0;
+        position: unset;
+        margin-right: 15px;
+    }
+
+    .item-srv .icon img {
+        width: 70px;
+    }
+    .push-pay {
+        margin-bottom: 15px;
+    }
+
+    .title-method {
+        font-size: 15px;
+    }
+
+    .choose-card {
+        display: block;
+    }
+
+    .choose-card .right {
+        padding-right: 0;
+    }
+
+}
+
+@media (max-width: 575px) {
+    .info-choose {
+        display: block !important;
+    }
+
+    .qr-code {
+        padding: 20px 0 0 0;
+        text-align: center;
+    }
+    .choose-card .right ul {
+        flex-wrap: wrap;
+    }
+
+    .choose-card .right ul li {
+        padding: 5px 0;
+    }
+}
+
+@media (max-width: 1023px) and (min-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    .header-top .hotline a {
+        font-size: 22px;
+        font-weight: 700;
+    }
+
+    .box-search input {
+        width: 180px;
+    }
+
+    .head-right li {
+        padding-right: 5px;
+    }
+
+    .head-right img {
+        width: 20px;
+    }
+
+    .box-menu-top a {
+        font-size: 12px;
+    }
+
+    .box-menu-top ul li {
+        padding: 0 5px;
+    }
+
+    .box-menu-top ul {
+        margin: 0 -5px;
+    }
+
+    .title h2 {
+        font-size: 18px;
+    }
+
+    .list-prd .row {
+        margin: 0 -7px;
+    }
+
+    .list-prd .col-md-4, .list-prd .col-md-3 {
+        padding: 7px;
+    }
+
+    .item-prd .prd-btn {
+        display: none;
+    }
+
+    .item-prd .price {
+        flex: 0 0 100%;
+    }
+
+    .item-prd .info h3 a {
+        font-size: 15px;
+    }
+
+    .tab-prd ul li {
+        padding-right: 20px;
+    }
+
+    .tab-prd ul a {
+        font-size: 16px;
+    }
+
+    .box-commitment .title h2 {
+        font-size: 25px;
+    }
+
+    .avar-icon {
+        display: none;
+    }
+
+    .item-comm .desc {
+        position: unset;
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+    .content-form {
+        padding: 50px;
+    }
+    .tab-about a {
+        font-size: 13px;
+    }
+    .content-cart table {
+        width: 760px !important;
+    }
+
+    .scr-mb {
+        overflow: auto;
+    }
+
+    .btn-process a {
+        font-size: 12px;
+    }
+
+    .cart-bar {
+        padding: 15px;
+    }
+    .prd-hist a {
+        font-size: 18px;
+    }
+    .info-preview h1 {
+        font-size: 25px;
+    }
+
+    .info-preview .price label {
+        font-size: 25px;
+    }
+    .item-srv .icon img {
+        width: 80px;
+    }
+
+    .item-srv .icon {
+        bottom: -40px;
+        left: -40px;
+    }
+
+    .item-srv {
+        padding: 30px 15px;
+    }
+
+    .item-srv h2 {
+        font-size: 16px;
+    }
+    .choose-card .right {
+        padding-right: 0;
+    }
+}
